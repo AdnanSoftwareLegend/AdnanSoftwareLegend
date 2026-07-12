@@ -11,9 +11,7 @@
 <!-- ================= NAME + ANIMATION ================= -->
 <!-- <h1 align="center">👋 Hi, I'm Adnan-E-Elahe</h1> -->
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe.+.+.+.+.+.+.+.+.+.+.;" />
-</p> -->
+
 
 
 <p align="center">
@@ -23,7 +21,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+Learner;Frontend+Developer;Problem+Solver;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Next.js+Learner;Frontend+Developer;Problem+Solver;Tech+Enthusiast" />
 </p>
 
 ---
