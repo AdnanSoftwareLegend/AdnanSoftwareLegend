@@ -1,8 +1,7 @@
 <!-- ================= HERO BANNER ================= -->
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGwsNsToEmYuA/profile-displaybackgroundimage-shrink_350_1400/B56Z22VQJAKoAY-/0/1776880518780?e=1783555200&v=beta&t=uD8Un1lUHK1kUmx75WLs6zqK85Ip4vl1d0LGdls3v-0" alt="MasterHead" />
-</p> 
-
+</p>
 
 
 
