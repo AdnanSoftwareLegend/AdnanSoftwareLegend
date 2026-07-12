@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe.+.+.+.+.+.+.+.+.+.+." />
 </p>
 
 
