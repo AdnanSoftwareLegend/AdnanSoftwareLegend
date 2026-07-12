@@ -10,10 +10,15 @@
 
 <!-- ================= NAME + ANIMATION ================= -->
 <!-- <h1 align="center">👋 Hi, I'm Adnan-E-Elahe</h1> -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe.+.+.+.+.+.+.+.+.+.+.;" />
-</p>
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe.+.+.+.+.+.+.+.+.+.+.;" />
+</p> -->
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Adnan-E-Elahe." />
+</p>
 
 
 
