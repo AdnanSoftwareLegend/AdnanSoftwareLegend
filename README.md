@@ -4,11 +4,11 @@
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
-<h2 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&weight=700&duration=3000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+%26+MERN+Developer;Next.js+%26+Modern+Web+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&weight=900&duration=3000&color=00F2FE&center=true&vCenter=true&width=900&height=55&lines=Full+Stack+%26+MERN+Developer;Next.js+%26+Modern+Web+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
   </a>
-</h2>
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adnansoftwarelegend&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -50,21 +50,28 @@
   </a>
 </p>
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= ABOUT ME (TERMINAL STYLE) ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=%2F%2F+Get+to+know+me...;const+developer+%3D+Adnan%3B" alt="Terminal Header" />
+</div>
+
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3>✨ About Me</h3>
-      <ul>
-        <li>🌱 Currently mastering <strong>Next.js, Advanced React & Modern Web Stack</strong></li>
-        <li>💻 Explore my portfolio at 👉 <a href="https://adnanelahe.vercel.app/"><strong>adnanelahe.vercel.app</strong></a></li>
-        <li>💬 Tech Focus: <strong>React.js, JavaScript, Node.js, Express, MongoDB, Tailwind CSS</strong></li>
-        <li>⚡ Passion: <strong>Building smooth user experiences and solving real-world programming problems.</strong></li>
-        <li>📫 Contact: <strong>adnanelahe21@gmail.com</strong></li>
-      </ul>
+      <pre align="left">
+<code>
+<strong><font color="#00F2FE">const</font> <font color="#4FACFE">Adnan</font> = {</strong>
+  <font color="#38BDF8">status</font>: <font color="#34D399">'🌱 Mastering Next.js & Modern Web Stack'</font>,
+  <font color="#38BDF8">techStack</font>: [<font color="#34D399">'React'</font>, <font color="#34D399">'Node.js'</font>, <font color="#34D399">'Express'</font>, <font color="#34D399">'MongoDB'</font>, <font color="#34D399">'Tailwind'</font>],
+  <font color="#38BDF8">portfolio</font>: <font color="#34D399">'https://adnanelahe.vercel.app'</font>,
+  <font color="#38BDF8">passion</font>: <font color="#34D399">'Building smooth UI & solving complex problems'</font>,
+  <font color="#38BDF8">contact</font>: <font color="#34D399">'adnanelahe21@gmail.com'</font>
+<strong>};</strong>
+</code>
+      </pre>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" style="border-radius: 15px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -112,8 +119,8 @@
 <h3 align="left">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnansoftwarelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansoftwarelegend&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adnansoftwarelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adnansoftwarelegend&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -128,7 +135,3 @@
 
 
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=100&section=footer" width="100%" alt="Footer" />
-</p>
