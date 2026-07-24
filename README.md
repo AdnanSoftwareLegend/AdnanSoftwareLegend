@@ -29,6 +29,27 @@
 
 <hr/>
 
+<!-- ================= CONNECT WITH ME ================= -->
+<h3 align="left">🤝 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/adnan-elahe-000525241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/adnan.elahe" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/adnaneelahe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/adnanelahe21" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.gg/K6NrTK9F" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 <!-- ================= ABOUT ME ================= -->
 <table align="center" width="100%">
   <tr>
@@ -105,26 +126,7 @@
 
 <hr/>
 
-<!-- ================= CONNECT WITH ME ================= -->
-<h3 align="left">🤝 Connect with Me</h3>
 
-<p align="left">
-  <a href="https://linkedin.com/in/adnan-elahe-000525241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/adnan.elahe" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/adnaneelahe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/adnanelahe21" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/K6NrTK9F" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
