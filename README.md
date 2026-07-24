@@ -16,14 +16,14 @@
 
 <!-- ================= QUICK CONTACT BADGES ================= -->
 <p align="center">
-  <a href="https://adnanelahe.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://adnanelahe.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE&labelColor=18181B" alt="Portfolio" />
   </a>
   <a href="mailto:adnanelahe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181B" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1z-4j1FijStI_NvNVefmthvOkh9Kiirv6/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Get_Resume-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  <a href="https://drive.google.com/file/d/1z-4j1FijStI_NvNVefmthvOkh9Kiirv6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Get_Resume-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=18181B" alt="Resume" />
   </a>
 </p>
 
