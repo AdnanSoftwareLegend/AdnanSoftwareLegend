@@ -6,7 +6,7 @@
 <!-- ================= TYPING ANIMATION ================= -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F2FE&center=true&vCenter=true&width=650&lines=Full+Stack+%26+MERN+Developer;Next.js+%26+Modern+Web+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&weight=700&duration=3000&color=00F2FE&center=true&vCenter=true&width=750&height=50&lines=Full+Stack+%26+MERN+Developer;Next.js+%26+Modern+Web+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
   </a>
 </h2>
 
