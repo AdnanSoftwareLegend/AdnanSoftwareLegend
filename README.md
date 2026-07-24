@@ -1,41 +1,36 @@
-<!-- ================= HERO BANNER ================= -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGwsNsToEmYuA/profile-displaybackgroundimage-shrink_350_1400/B56Z22VQJAKoAY-/0/1776880518780?e=1783555200&v=beta&t=uD8Un1lUHK1kUmx75WLs6zqK85Ip4vl1d0LGdls3v-0" alt="Header Banner" width="100%" />
-</p>
-
-<!-- ================= TYPING ANIMATION ================= -->
+<!-- ================= HERO TYPING BANNER ================= -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Adnan-E-Elahe+👋;MERN+Stack+Developer;Next.js+Learner+%26+Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Adnan-E-Elahe+👋;Full+Stack+MERN+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Scalable+Web+Applications" alt="Typing Banner" />
   </a>
 </p>
 
 <p align="center">
-  <b>Full Stack Developer</b> passionate about building modern, scalable web applications and solving real-world problems.
+  <b>Passionate Full Stack Developer</b> dedicated to crafting modern, high-performance web applications and solving complex problems.
 </p>
 
 <p align="center">
-  <a href="https://adnanelahe.vercel.app/">🌐 Live Portfolio</a> •
-  <a href="https://drive.google.com/file/d/1z-4j1FijStI_NvNVefmthvOkh9Kiirv6/view?usp=drive_link">📄 Resume</a> •
-  <a href="mailto:adnanelahe21@gmail.com">✉️ Contact Me</a>
+  <a href="https://adnanelahe.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1z-4j1FijStI_NvNVefmthvOkh9Kiirv6/view?usp=drive_link"><img src="https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:adnanelahe21@gmail.com"><img src="https://img.shields.io/badge/✉️_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
 </p>
 
 <br/>
 
-<!-- ================= ABOUT ME & GIF ================= -->
-<table>
+<!-- ================= ABOUT ME ================= -->
+<table border="0">
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 About Me</h3>
       <ul>
-        <li>🌱 Currently learning <b>Next.js, TypeScript & Modern Web Technologies</b>.</li>
-        <li>💻 Working on <b>MERN Stack</b> based web applications.</li>
-        <li>💬 Ask me about <b>React.js, JavaScript, Node.js, Express & MongoDB</b>.</li>
-        <li>⚡ Fun fact: <i>I love solving programming problems and building clean UI/UX designs.</i></li>
+        <li>🌱 Mastering <b>Next.js 14, TypeScript & Cloud Technologies</b>.</li>
+        <li>💻 Specializing in <b>MERN Stack</b> full-lifecycle app development.</li>
+        <li>💬 Let's talk about <b>React, Node.js, Express, MongoDB & System Architecture</b>.</li>
+        <li>⚡ Fun fact: <i>Love competitive programming and crafting pixel-perfect UI.</i></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF" style="border-radius: 12px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
@@ -46,7 +41,7 @@
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adnan-elahe-000525241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/adnan.elahe" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -65,48 +60,29 @@
 <br/>
 
 <!-- ================= TECH STACK ================= -->
-<h3 align="left">🛠️ Tech Stack & Tools</h3>
+<h3 align="left">🛠️ Tech Stack & Skills</h3>
+
 <p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="36" height="36"/> &nbsp;
-  
-  <br/><br/>
-  
-  <!-- Frontend & Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/> &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="36" height="36"/> &nbsp;
-  
-  <br/><br/>
+  <b>Frontend:</b><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-  <!-- Backend & Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="36" height="36"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> &nbsp;
-  
-  <br/><br/>
-
-  <!-- Tools & ML -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="36" height="36"/>
+<p align="left">
+  <b>Backend & Database:</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 <br/>
 
 <!-- ================= GITHUB STATS ================= -->
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adnansoftwarelegend&show_icons=true&theme=dark&hide_border=true" alt="Adnan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansoftwarelegend&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adnansoftwarelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adnansoftwarelegend&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
