@@ -1,6 +1,6 @@
 <!-- ================= DYNAMIC HERO HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi,%20I'm%20Adnan-E-Elahe%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi,%20I'm%20Adnan-E-Elahe%20 &fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
 </p>
 
 <!-- ================= TYPING ANIMATION ================= -->
