@@ -2,11 +2,21 @@
 
 Ei document e website-er **frontend** (already built) ar **backend** (planned/next step) — dutor structure, setup, ar architecture diagram deya ache.
 
+
+<p align="center">
+  <a href="YOUR_FRONTEND_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-Live-blue?style=for-the-badge" alt="Frontend Live">
+  </a>
+
+  <a href="YOUR_BACKEND_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Live-green?style=for-the-badge" alt="Backend Live">
+  </a>
+</p>
+
 ---
 
-## 4. System Architecture Diagram
+## System Architecture Diagram
 
-Ei code ta [mermaid.live](https://mermaid.live) e paste korle, ba GitHub/Notion-er moto Mermaid-support kora jaygay paste korle, sundor diagram dekhabe:
 
 ```mermaid
 graph TB
@@ -54,16 +64,6 @@ graph TB
 - **Backend / External / Data boxes:** planned — next development phase
 
 ---
-
-<p align="center">
-  <a href="YOUR_FRONTEND_LIVE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend-Live-blue?style=for-the-badge" alt="Frontend Live">
-  </a>
-
-  <a href="YOUR_BACKEND_LIVE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-Live-green?style=for-the-badge" alt="Backend Live">
-  </a>
-</p>
 
 
 
