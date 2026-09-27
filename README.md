@@ -1,137 +1,148 @@
-<!-- ================= DYNAMIC HERO HEADER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi,%20I'm%20Adnan-E-Elahe%20 &fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header" />
-</p>
+# E-Commerce Website — Frontend + Backend (Architecture & Setup)
 
-<!-- ================= TYPING ANIMATION ================= -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&weight=900&duration=3000&color=00F2FE&center=true&vCenter=true&width=900&height=55&lines=Full+Stack+%26+MERN+Developer;Next.js+%26+Modern+Web+Enthusiast;Building+Scalable+Web+Applications;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
-  </a>
-</h1>
+Ei document e website-er **frontend** (already built) ar **backend** (planned/next step) — dutor structure, setup, ar architecture diagram deya ache.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adnansoftwarelegend&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+---
 
-<!-- ================= QUICK CONTACT BADGES ================= -->
-<p align="center">
-  <a href="https://adnanelahe.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE&labelColor=18181B" alt="Portfolio" />
-  </a>
-  <a href="mailto:adnanelahe21@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181B" alt="Email" />
-  </a>
-  <a href="https://drive.google.com/file/d/1z-4j1FijStI_NvNVefmthvOkh9Kiirv6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Get_Resume-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=18181B" alt="Resume" />
-  </a>
-</p>
+## 4. System Architecture Diagram
 
-<hr/>
+Ei code ta [mermaid.live](https://mermaid.live) e paste korle, ba GitHub/Notion-er moto Mermaid-support kora jaygay paste korle, sundor diagram dekhabe:
 
-<!-- ================= CONNECT WITH ME ================= -->
-<h3 align="left">🤝 Connect with Me</h3>
+```mermaid
+graph TB
+    Customer(["Customer<br/>Browser / Mobile"])
 
-<p align="center">
-  <a href="https://linkedin.com/in/adnan-elahe-000525241" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/adnan.elahe" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/adnaneelahe" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/adnanelahe21" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/K6NrTK9F" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+    subgraph Frontend["Frontend — Next.js (built)"]
+        UI["Pages: Home, Shop, Product,<br/>Cart, Wishlist, Checkout, Contact, Blog"]
+        LS[("localStorage<br/>Cart & Wishlist")]
+        UI <--> LS
+    end
 
-<!-- ================= ABOUT ME (TERMINAL STYLE) ================= -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=00F2FE&center=true&vCenter=true&width=500&height=40&lines=%2F%2F+Get+to+know+me...;const+developer+%3D+Adnan%3B" alt="Terminal Header" />
-</div>
+    subgraph Backend["Backend API (planned)"]
+        Gateway["API Gateway / Next.js API Routes"]
+        Auth["Auth Service"]
+        ProductSvc["Product Service"]
+        OrderSvc["Order Service"]
+        NotifySvc["Notification Service<br/>(Email / SMS)"]
+    end
 
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <pre align="left">
-<code>
-<strong><font color="#00F2FE">const</font> <font color="#4FACFE">Adnan</font> = {</strong>
-  <font color="#38BDF8">status</font>: <font color="#34D399">'🌱 Mastering Next.js & Modern Web Stack'</font>,
-  <font color="#38BDF8">techStack</font>: [<font color="#34D399">'React'</font>, <font color="#34D399">'Node.js'</font>, <font color="#34D399">'Express'</font>, <font color="#34D399">'MongoDB'</font>, <font color="#34D399">'Tailwind'</font>],
-  <font color="#38BDF8">portfolio</font>: <font color="#34D399">'https://adnanelahe.vercel.app'</font>,
-  <font color="#38BDF8">passion</font>: <font color="#34D399">'Building smooth UI & solving complex problems'</font>,
-  <font color="#38BDF8">contact</font>: <font color="#34D399">'adnanelahe21@gmail.com'</font>
-<strong>};</strong>
-</code>
-      </pre>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+    subgraph External["External Services"]
+        Payment["Payment Gateway<br/>(Stripe / SSLCommerz / bKash)"]
+    end
 
-<hr/>
+    subgraph Data["Data Layer"]
+        DB[("Database<br/>Products, Orders, Users")]
+    end
 
-<!-- ================= SKILLS & TECH STACK ================= -->
-<h3 align="left">🛠️ Tech Stack & Ecosystem</h3>
+    Admin(["Admin"]) --> AdminPanel["Admin Panel<br/>(planned)"]
 
-<!-- Programming Languages -->
-<p align="left">
-  <b>Programming Languages:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,kotlin&perline=10" alt="Languages" />
-  </a>
-</p>
+    Customer --> UI
+    UI -- "API calls (fetch)" --> Gateway
+    Gateway --> Auth
+    Gateway --> ProductSvc
+    Gateway --> OrderSvc
+    OrderSvc --> Payment
+    OrderSvc --> NotifySvc
+    Auth --> DB
+    ProductSvc --> DB
+    OrderSvc --> DB
+    AdminPanel --> Gateway
+```
 
-<!-- Frontend Development -->
-<p align="left">
-  <b>Frontend Development:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,figma&perline=10" alt="Frontend" />
-  </a>
-</p>
+**Legend:**
+- **Frontend box:** already built and working
+- **Backend / External / Data boxes:** planned — next development phase
 
-<!-- Backend Development & Databases -->
-<p align="left">
-  <b>Backend & Databases:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&perline=10" alt="Backend" />
-  </a>
-</p>
-
-<!-- AI/ML & Tools -->
-<p align="left">
-  <b>AI/ML & Tools:</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,github,vscode,postman&perline=10" alt="Tools" />
-  </a>
-</p>
-
-<hr/>
-
-<!-- ================= GITHUB STATS & METRICS ================= -->
-<h3 align="left">📊 GitHub Analytics</h3>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adnansoftwarelegend&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adnansoftwarelegend&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
+  <a href="YOUR_FRONTEND_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Frontend-Live-blue?style=for-the-badge" alt="Frontend Live">
+  </a>
+
+  <a href="YOUR_BACKEND_LIVE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Backend-Live-green?style=for-the-badge" alt="Backend Live">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnansoftwarelegend&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnansoftwarelegend&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph" />
-</p>
-
-<hr/>
 
 
 
+
+---
+
+## 1. Project Overview
+
+- **Business model:** Own manufactured products, direct to customer (D2C)
+- **Frontend:** Next.js (App Router) + React, plain JSX, colors globally controlled from one file
+- **Backend:** Not built yet — this README defines the planned structure so frontend ar backend eksathe kaj korte pare
+- **Status:** Frontend done ✅ | Backend planned 🔜
+
+---
+
+## 2. Frontend
+
+### Tech stack
+- Next.js (App Router), React, JSX (no TypeScript)
+- Plain CSS with CSS variables (no UI framework)
+- Cart/Wishlist ekhon browser `localStorage` e save hoy (backend na thakle o kaj kore)
+
+### Run it
+```bash
+cd ecommerce-site
+npm install
+npm run dev        # http://localhost:3000
+npm run build && npm start
+```
+
+### Where to change things
+
+| What | File |
+| --- | --- |
+| **Colors (whole site)** | `app/globals.css` → `:root { ... }` block |
+| Brand name, phone, email, address, currency, tax | `lib/config.js` |
+| Products, categories, blog posts | `lib/data.js` |
+| Product photos | `public/products/` + `image: "/products/name.jpg"` |
+| Fonts | `app/layout.jsx` |
+
+### Pages
+`/` home · `/products` shop (filters) · `/products/[id]` details · `/cart` · `/wishlist` · `/checkout` · `/contact` · `/blog` · `/blog/[slug]`
+
+---
+
+## 3. Backend (planned)
+
+Backend ekhono build kora hoyni. Eta build korar shomoy ei services gulo lagbe:
+
+| Service | Kaj | Suggested tech |
+| --- | --- | --- |
+| **Auth Service** | Customer signup/login, admin login | Node.js/Express ba Next.js API routes + JWT |
+| **Product Service** | Product, category, stock manage | Same backend + Database |
+| **Order Service** | Cart → order convert, order status track | Same backend |
+| **Payment Gateway** | Online payment (card/mobile banking) | Stripe / SSLCommerz / bKash / Nagad |
+| **Notification Service** | Order confirmation email/SMS | SendGrid / Twilio / local SMS gateway |
+| **Admin Panel** | Product, order, customer manage | Separate dashboard (Next.js ba alada app) |
+| **Database** | Product, order, user, review data store | MongoDB |
+
+### Suggested API routes (jokhon backend banano hobe)
+```
+POST   /api/auth/register
+POST   /api/auth/login
+GET    /api/products
+GET    /api/products/:id
+POST   /api/orders
+GET    /api/orders/:id
+POST   /api/payments/create-intent
+POST   /api/payments/webhook
+```
+
+
+
+## 4. Before Going Live (Checklist)
+
+- [ ] Payment gateway connect kora (raw card number nijer server e store na kore, gateway-er hosted field use korte hobe)
+- [ ] Order database e save howa (ekhon demo — shudhu screen e dekhay, save hoy na)
+- [ ] Contact form backend/email service e connect kora
+- [ ] Admin panel banano (product/order manage korar jonno)
+- [ ] Real product photo ar description diye sample data replace kora
+- [ ] Domain, hosting, SSL setup
